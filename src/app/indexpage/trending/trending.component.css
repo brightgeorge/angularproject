@@ -1,0 +1,37 @@
+@media screen and (max-width: 768px) {
+	
+    #cen4,#cen14,#cen24{
+		
+		   width:100%;
+	}
+}
+
+#cen{
+	
+    margin: 0;
+    position: absolute;
+   /* top: 87%;*/
+    left: 40%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+  
+  #cen1{
+      
+    margin: 0;
+    position: absolute;
+    /*top: 87%;*/
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+  
+  #cen2{
+      
+    margin: 0;
+    position: absolute;
+    /*top: 87%;*/
+    left: 60%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
